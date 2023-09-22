@@ -1,0 +1,22 @@
+[
+    {
+        "no": 120,
+        "descr": "Food",
+        "amount": 1500.0
+    },
+    {
+        "no": 125,
+        "descr": "Study",
+        "amount":800.0
+    },
+    {
+        "no": 333,
+        "descr": "Picnic",
+        "amount":300.0
+    },
+    {
+        "no": 222,
+        "descr": "Others",
+        "amount":3000.0
+    }
+]

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExpInfo/1.0.0": {
+        "dependencies": {
+          "ExpenseLib": "1.0.0"
+        },
+        "runtime": {
+          "ExpInfo.dll": {}
+        }
+      },
+      "ExpenseLib/1.0.0": {
+        "runtime": {
+          "ExpenseLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpenseLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

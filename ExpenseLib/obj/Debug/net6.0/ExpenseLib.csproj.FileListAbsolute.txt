@@ -1,0 +1,12 @@
+D:\OOAD\M3\ExpenseLib\bin\Debug\net6.0\ExpenseLib.deps.json
+D:\OOAD\M3\ExpenseLib\bin\Debug\net6.0\ExpenseLib.dll
+D:\OOAD\M3\ExpenseLib\bin\Debug\net6.0\ExpenseLib.pdb
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ExpenseLib.csproj.AssemblyReference.cache
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ExpenseLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ExpenseLib.AssemblyInfoInputs.cache
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ExpenseLib.AssemblyInfo.cs
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ExpenseLib.csproj.CoreCompileInputs.cache
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ExpenseLib.dll
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\refint\ExpenseLib.dll
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ExpenseLib.pdb
+D:\OOAD\M3\ExpenseLib\obj\Debug\net6.0\ref\ExpenseLib.dll
